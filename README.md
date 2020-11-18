@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MaddaBored&show_icons=true&theme=gotham" alt="MaddaBored" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MaddaBored&show_icons=true&theme=merko" alt="MaddaBored" />
