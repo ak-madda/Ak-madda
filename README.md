@@ -16,4 +16,20 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MaddaBored&show_icons=true&theme=merko" alt="MaddaBored" />
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/MaddaBored/MaddaBored">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaddaBored&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/MaddaBored/MaddaBored">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaddaBored&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MaddaBored/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaddaBored&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MaddaBored/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaddaBored&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
