@@ -25,12 +25,12 @@
 
 - 🔭 I’m currently working on Python projects
 - 🌱 I’m currently learning Python, Cybersecurity and Linux systems 
-- 🤔 I’m looking for help with web Cybersecurity, Reverse Engineering and Programming Languages like Python, Go and Java ...
+- 👯 I’m looking to collaborate on web Cybersecurity, Reverse Engineering and Programming Languages like Python, Go and Java ...
 - 💬 Ask me about Everything
 - 📫 How to reach me: Google Hangouts
 
 
-<!-- - 👯 I’m looking to collaborate on 
+<!-- - 🤔 I’m looking for help with
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
