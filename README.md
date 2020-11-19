@@ -41,7 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaddaBored&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/MaddaBored/MaddaBored">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaddaBored&theme="shades-of-purple"" alt="MaddaBored's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaddaBored&theme="blue-green"" alt="MaddaBored's GitHub Stats" />
 </a>
 
 <!--<a href="https://github.com/MaddaBored/python-project-blueprint">
