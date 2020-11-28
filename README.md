@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning Python, Cybersecurity and Linux systems 
 - 👯 I’m looking to collaborate on web Cybersecurity, Reverse Engineering and Programming Languages like Python, Go and Java ...
 - 💬 Ask me about Everything
-- 📫 How to reach me: Google Hangouts
+- 📫 How to reach me: [Telegram](https://t.me/MaddaBored)
 
 
 <!-- - 🤔 I’m looking for help with
