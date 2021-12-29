@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on web Cybersecurity, Reverse Engineering and Programming Languages like Python, Go and Java ...
 - 💬 Ask me about Everything
 - 📫 How to reach me: [Telegram](https://t.me/MaddaBored)
-- Donate [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/abdelkarimmadda?locale.x=ar_EG)
+- <!-- Donate [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/abdelkarimmadda?locale.x=ar_EG) >
 
 
 
