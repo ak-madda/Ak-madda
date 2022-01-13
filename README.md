@@ -24,7 +24,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello folks!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 🔭 I’m currently working on Python projects
-- 🌱 I’m currently learning Python, Cybersecurity and Linux systems 
+- 🌱 I’m currently learning Python, Cybersecurity and Linux systems to know more visit my portfolio: me.white-ops.ga
 - 👯 I’m looking to collaborate on web Cybersecurity, Reverse Engineering and Programming Languages like Python, Go and Java ...
 - 💬 Ask me about Everything
 - 📫 How to reach me: [Telegram](https://t.me/MaddaBored)
