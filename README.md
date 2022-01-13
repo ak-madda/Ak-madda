@@ -17,6 +17,7 @@
 - 😄 I will usually be a part of events
 - 🌱 I love to participate in challenges like CTFs
 - 👯 And Many More...
+- 🌐 for more visit <a href="https://me.white-ops.ga"> Portfolio </a>
 <!--- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force-->
 <!--
 **MaddaBored/MaddaBored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -24,7 +25,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello folks!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 🔭 I’m currently working on Python projects
-- 🌱 I’m currently learning Python, Cybersecurity and Linux systems to know more visit my portfolio: me.white-ops.ga
+- 🌱 I’m currently learning Python, Cybersecurity and Linux systems.
 - 👯 I’m looking to collaborate on web Cybersecurity, Reverse Engineering and Programming Languages like Python, Go and Java ...
 - 💬 Ask me about Everything
 - 📫 How to reach me: [Telegram](https://t.me/MaddaBored)
