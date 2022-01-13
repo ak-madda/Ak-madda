@@ -17,7 +17,7 @@
 - 😄 I will usually be a part of events
 - 🌱 I love to participate in challenges like CTFs
 - 👯 And Many More...
-- 🌐 for more visit <a href="https://me.white-ops.ga"> Portfolio </a>
+- 🌐 for more visit my <a href="https://me.white-ops.ga"> Portfolio </a>
 <!--- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force-->
 <!--
 **MaddaBored/MaddaBored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
