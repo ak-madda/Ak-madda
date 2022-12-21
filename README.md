@@ -9,7 +9,7 @@
 ---
 ## Hi there 👋
 
-### I'm Abdelkarim MADDA, a Software Developer. I am a tech and cybersecurity enthusiast, very interested in cybersecurity and software engineering, I've Some Experience and Knowledge in CTF and problem solving and Would love to be a Cybersecurity Expert.
+### I'm Abdelkarim MADDA, a Software Developer. I am a tech and Infosecurity enthusiast, very interested in cybersecurity and software engineering, I've Some Experience and Knowledge in CTF and problem solving and Would love to be a Infosecurity Expert.
 -------
 ## 🧐 About
 
