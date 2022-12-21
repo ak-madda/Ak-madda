@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abdelkarimmadda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madda-it/)](https://www.linkedin.com/in/madda-it/) 
 [![GitHub followers](https://img.shields.io/github/followers/ak-madda?label=Follow&style=social)](https://github.com/ak-madda/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/ak-madda-c14438?style=Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdemadda@gmail.com)](mailto:abdemadda@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Abdel-c14438?style=Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdemadda@gmail.com)](mailto:abdemadda@gmail.com)
 <!--[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)
 [![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
 ---
